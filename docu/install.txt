@@ -1,0 +1,9 @@
+* download latest Python 3 from https://www.python.org/downloads/
+* install using default confiugration , features and location
+* check by opening a new command/Powershell and type 
+    py --version
+which should return s.th. like this:
+ />: py --version
+Python 3.9.0
+
+
