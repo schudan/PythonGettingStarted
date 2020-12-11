@@ -5,5 +5,4 @@
 which should return s.th. like this:
  />: py --version
 Python 3.9.0
-
-
+* install python exension in VSCode
